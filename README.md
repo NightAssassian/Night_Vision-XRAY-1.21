@@ -3,7 +3,7 @@
 i mean its pretty straight forward if u dont know how to put a resource pack in a resource pack folder just follow this guide.
 
 step 1: type win + r for run
-step 2: type in run"appdata" (without the brackets)
+step 2: type in run "appdata" (without the brackets)
 step 3: go to roaming then .minecraft folder
 step 4: find the resourcepacks folder
 step 5: put the zip file inside of the resourcepacks folder
