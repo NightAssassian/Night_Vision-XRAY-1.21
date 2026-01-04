@@ -1,5 +1,5 @@
-# Night_Vision-XRAY-1.21
-
+# Night_Vision
+the ULTIMATE resource pack (made by me :3)
 i mean its pretty straight forward if u dont know how to put a resource pack in a resource pack folder just follow this guide.
 
 step 1: type win + r for run
